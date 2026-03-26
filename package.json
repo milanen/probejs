@@ -1,0 +1,15 @@
+{
+  "name": "@milanen/probejs",
+  "version": "0.0.1",
+  "description": "Security layer for web applications (auth, middleware, protection)",
+  "main": "src/index.js",
+  "type": "module",
+  "keywords": [
+    "security",
+    "auth",
+    "middleware",
+    "jwt"
+  ],
+  "author": "Julio Milan",
+  "license": "MIT"
+}
